@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hi_Tech_Management_System.BLL.Client" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIQBAAIMAQACSAAAAEAAgAQAAIAAgAAAAA=</HashCode>
+      <FileName>BLL\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Management_System.BLL.Employee" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACAABIAAAASAAAAEEAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BLL\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Management_System.BLL.Orders" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAAAIQAAAAAAAAAQAAAEAAQABAAAAAAhkAAAA=</HashCode>
+      <FileName>BLL\Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Management_System.BLL.Person" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAACBAAAAgAAAAQAAAAAAAIAAAAAAACAAAAAg=</HashCode>
+      <FileName>BLL\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Management_System.BLL.Product" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAiAAgAAAAAAIAAAgAQEGCQEABASAAABlgBACCQAgA=</HashCode>
+      <FileName>BLL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hi_Tech_Management_System.BLL.User" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAACAAAIAACAQAAAgEAAAA=</HashCode>
+      <FileName>BLL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

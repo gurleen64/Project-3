@@ -1,0 +1,4 @@
+125,Henry,Brown,514-222-6565,514-999-8585,brownhenry@gmail.com,MIS manager
+126,Mary,Brown,514-555-6565,514-444-5454,jackloiuse@hotmail.com,Order Clerk
+129,Anjumdeep,Kaur,514-883-8166,514-882-8090,johalAnjum@yahoo.com,Order Clerk
+124,Peter,Wang,514-778-8585,wangPeter@gmail.com,514-999-2323,Inventory controller
